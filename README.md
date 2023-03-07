@@ -1,3 +1,3 @@
 # Odin_recipe
 
-[click](git@github.com:JakaAmbrus/Odin_recipe.git)
+[My recipe site](https://jakaambrus.github.io/Odin_recipe/)
