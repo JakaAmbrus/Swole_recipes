@@ -6,3 +6,5 @@ I practiced css basics such as flexbox and some minor animations.
 ## Technologies used:
 [![My Skills](https://skills.thijs.gg/icons?i=html,css)](https://skills.thijs.gg)
 
+## Preview
+![Preview0](./preview.PNG)
